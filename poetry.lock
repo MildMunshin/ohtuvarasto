@@ -12,7 +12,7 @@ files = [
 ]
 
 [[package]]
-name = "coverage"
+name = "cove
 version = "7.6.4"
 description = "Code coverage measurement for Python"
 optional = false
